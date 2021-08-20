@@ -1,5 +1,5 @@
 # LeetCode-JumpGame-2
-My solution from scratch that is Faster than 95%
+My solution from that has a Fasterv runtime than 94.20% of users on leetcode. 
 
 
 
